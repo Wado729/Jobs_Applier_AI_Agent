@@ -1,6 +1,7 @@
 You need to install Python 3.10.8
 You need to install GIt for windows here https://git-scm.com/downloads
 You need to change 'llm_api_key' name in secrets.yaml to openai_api_key.
+You need to run python -m venv virtual in Powershell from folder
 
 
 <a name="top"></a>
