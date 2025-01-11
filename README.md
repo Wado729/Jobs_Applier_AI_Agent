@@ -1,3 +1,8 @@
+You need to install Python 3.10.8
+You need to install GIt for windows here https://git-scm.com/downloads
+You need to change 'llm_api_key' name in secrets.yaml to openai_api_key.
+
+
 <a name="top"></a>
 <div align="center">
 <img src="./assets/AIHawk.png">
